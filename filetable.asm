@@ -7,7 +7,7 @@
 ;; sector count: hex (1 byte)
 ;;
 ;; file name(9 byte) + extension(3 byte) = 12byte for string data
-;; each single element get 16 byte for filedata
+;; each single element has 16 byte for filedata
 ;; maximun size for 1 element 00h~FFh (0 ~ 255) 127.5kb
 ;; maximum file size for entire disk is 31.7505~ mb
 ;; 
