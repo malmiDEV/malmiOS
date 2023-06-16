@@ -1,5 +1,7 @@
 # malmiOS
-malmiOS is simple operating system run on 16bit real mode
+malmiOS is simple 16bit assembly operating system 
+
+**CURRENTLY I AM REWRITING MALMI OS TO 32BIT PM WITH SOME NEW FEATURES**
 
 - Build on Linux
 
